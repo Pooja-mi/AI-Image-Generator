@@ -11,6 +11,16 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+#Output
+
+![Screenshot 2024-07-06 143146](https://github.com/Pooja-mi/AI-Image-Generator/assets/170516675/1aa2e75b-525b-497e-b6fc-e12d324bf6c6)
+
+![Screenshot 2024-07-06 143133](https://github.com/Pooja-mi/AI-Image-Generator/assets/170516675/2259f0f0-ed0c-4b3a-9a4c-1fa9345b6f3b)
+
+
+![Screenshot 2024-07-06 143207](https://github.com/Pooja-mi/AI-Image-Generator/assets/170516675/5dc7680c-cbcb-461f-8dc4-b2eb06d5c8b9)
+
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
